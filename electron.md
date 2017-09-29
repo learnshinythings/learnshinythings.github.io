@@ -12,9 +12,9 @@ Electron Workshop
 </div>
 </div>
 
-<div class="bg-purp tc pb4">
+<div class="bg-purp-light tc pt4">
 <div class="f5 measure-wide dib tl" markdown="1">
-<div class="tc">
+<div class="tc pa3 ba br4 b--purple bg-purp shadow-3">
   <div>Sunday Nov 1, 2017</div>
   <div>9am - 6pm</div>
   <div>at <a href="#">General Assembly</a> (~Farragut area)</div>
