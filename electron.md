@@ -6,13 +6,13 @@ layout: general
 ---
 
 
-<div class="bg-light-yellow pa5-ns tc">
-<div class="measure-wide dib tl" markdown="1">
-## Electron Workshop
+<div class="bg-light-purple tc">
+<div class="f2 tracked measure-wide dib tl" markdown="1">
+Electron Workshop
 </div>
 </div>
 
-<div class="bg-light-purple pa5-ns tc">
+<div class="bg-light-green pa5-ns tc">
 <div class="measure-wide dib tl" markdown="1">
 ### Workshop Description
 [Electron](https://electron.atom.io/) is a framework you can use to make desktop applications using javascript. You may have already used an Electron app if you have the Slack app or the text editor Atom. With electron, making a simple desktop application is as easy as making a simple web application. Learn to make your own Electron app in this 2-3 hour workshop :D
