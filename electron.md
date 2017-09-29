@@ -5,15 +5,26 @@
 layout: general
 ---
 
-## Electron Workshop
 
+<div class="bg-light-yellow pa5-ns tc">
+<div class="measure-wide dib tl" markdown="1">
+## Electron Workshop
+</div>
+</div>
+
+<div class="bg-light-purple pa5-ns tc">
+<div class="measure-wide dib tl" markdown="1">
 ### Workshop Description
 [Electron](https://electron.atom.io/) is a framework you can use to make desktop applications using javascript. You may have already used an Electron app if you have the Slack app or the text editor Atom. With electron, making a simple desktop application is as easy as making a simple web application. Learn to make your own Electron app in this 2-3 hour workshop :D
 
 Electron provides a set of [cross-platform APIs](https://github.com/electron/electron-api-demos) you can use to interact with the desktop computer. You can use these to have an icon in the tray/menubar, to display notifications, register keyboard shortcuts, and much more. An Electron application has a node “server” running locally doing most of the work, and often additionally a browser process running locally to display things prettily.
 
 No node experience required, but basic javascript experience would be helpful. If you want to play with Node ahead of time anyway (or brush up on your Javascript), I'd recommend NodeSchool's two command-line courses: [Javascripting](https://github.com/workshopper/javascripting) and [LearnYouNode](https://github.com/workshopper/learnyounode). If you'd enjoy reading/skimming a book, I might recommend [Eloquent Javascript](http://eloquentjavascript.net/) (free to read online).
+</div>
+</div>
 
+<div class="bg-light-purple pa5-ns tc">
+<div class="measure-wide dib tl" markdown="1">
 ### Scenario / User Story
 You work remotely. When pair programming or video chatting online, sometimes the connection gets bad.
 You're never sure if it's your side or their side having issues.
@@ -22,7 +33,11 @@ You'd love it if:
 
 1. You could tell at a glance (without an additional terminal window) whether your ping is currently good or bad
 2. You could get a notification when your wifi goes out, or comes back
+</div>
+</div>
 
+<div class="bg-light-green pa5-ns tc">
+<div class="measure-wide dib tl" markdown="1">
 ### Our Project
 In this workshop, you will create from start to finish a tray icon that will display whether or not you are currently connected to the internet. A node process inside of the Electron app will ping google.com every second. We will then:
 
