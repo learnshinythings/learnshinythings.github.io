@@ -3,22 +3,22 @@ body {
 }
 
 .bg-purp-darkest {
-  background-color: #570eae;
+  background-color: #8834ee;
 }
 .bg-purp-darker {
-  background-color: #6e12dd;
+  background-color: #964bf0;
 }
 .bg-purp-dark {
-  background-color: #8934ee;
+  background-color: #a363f2;
 }
 .bg-purp {
-  background-color: #a463f2;
-}
-.bg-purp-light {
   background-color: #bf92f6;
 }
-.bg-purp-lighter {
+.bg-purp-light {
   background-color: #dbc1fa;
+}
+.bg-purp-lighter {
+  background-color: #e8d9fc;
 }
 .bg-purp-lightest {
   background-color: #f6f0fe;
