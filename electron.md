@@ -12,6 +12,17 @@ Electron Workshop
 </div>
 </div>
 
+<div class="bg-light-purple tc pb4">
+<div class="f5 measure-wide dib tl" markdown="1">
+<div class="tc">
+  <div>Sunday Nov 1, 2017</div>
+  <div>9am - 6pm</div>
+  <div>at <a href="#">General Assembly</a> (~Farragut area)</div>
+  <div>Lunch Provided</div>
+</div>
+</div>
+</div>
+
 <div class="bg-light-green pa5-ns tc">
 <div class="measure-wide dib tl" markdown="1">
 ### Workshop Description
