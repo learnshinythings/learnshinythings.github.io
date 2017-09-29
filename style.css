@@ -1,0 +1,25 @@
+body {
+  background-color: pink;
+}
+
+.bg-purp-darkest {
+  background-color: #570eae;
+}
+.bg-purp-darker {
+  background-color: #6e12dd;
+}
+.bg-purp-dark {
+  background-color: #8934ee;
+}
+.bg-purp {
+  background-color: #a463f2;
+}
+.bg-purp-light {
+  background-color: #bf92f6;
+}
+.bg-purp-lighter {
+  background-color: #dbc1fa;
+}
+.bg-purp-lightest {
+  background-color: #f6f0fe;
+}

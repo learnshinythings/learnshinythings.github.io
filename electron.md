@@ -6,13 +6,13 @@ layout: general
 ---
 
 
-<div class="bg-light-purple tc">
+<div class="bg-purp tc">
 <div class="f2 tracked measure-wide dib tl" markdown="1">
 Electron Workshop
 </div>
 </div>
 
-<div class="bg-light-purple tc pb4">
+<div class="bg-purp tc pb4">
 <div class="f5 measure-wide dib tl" markdown="1">
 <div class="tc">
   <div>Sunday Nov 1, 2017</div>
@@ -23,7 +23,7 @@ Electron Workshop
 </div>
 </div>
 
-<div class="bg-light-green pa5-ns tc">
+<div class="bg-purp-light pa5-ns tc">
 <div class="measure-wide dib tl" markdown="1">
 ### Workshop Description
 [Electron](https://electron.atom.io/) is a framework you can use to make desktop applications using javascript. You may have already used an Electron app if you have the Slack app or the text editor Atom. With electron, making a simple desktop application is as easy as making a simple web application. Learn to make your own Electron app in this 2-3 hour workshop :D
@@ -34,7 +34,7 @@ No node experience required, but basic javascript experience would be helpful. I
 </div>
 </div>
 
-<div class="bg-light-purple pa5-ns tc">
+<div class="bg-purp pa5-ns tc">
 <div class="measure-wide dib tl" markdown="1">
 ### Scenario / User Story
 You work remotely. When pair programming or video chatting online, sometimes the connection gets bad.
@@ -47,7 +47,7 @@ You'd love it if:
 </div>
 </div>
 
-<div class="bg-light-green pa5-ns tc">
+<div class="bg-purp-light pa5-ns tc">
 <div class="measure-wide dib tl" markdown="1">
 ### Our Project
 In this workshop, you will create from start to finish a tray icon that will display whether or not you are currently connected to the internet. A node process inside of the Electron app will ping google.com every second. We will then:
