@@ -4,3 +4,5 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: general
 ---
+
+[Electron Class]({{ site.baseurl }}{% link electron.md %})
