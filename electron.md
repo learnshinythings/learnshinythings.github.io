@@ -18,7 +18,7 @@ Electron Workshop
 <div class="tc pa3 ba br4 b--purple bg-purp shadow-3">
   <div>Sunday Nov 12, 2017</div>
   <div>10am - 6pm</div>
-  <div>at <a href="#">General Assembly</a> (~Farragut area)</div>
+  <div>at <a href="https://generalassemb.ly/locations/washington-dc">General Assembly</a> (~Farragut area)</div>
   <div>$100 for the 8 hour class</div>
   <div>Lunch Included</div>
 </div>
