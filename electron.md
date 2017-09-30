@@ -64,7 +64,13 @@ And an unrelated application that I've written:
 
 - https://github.com/caseywatts/heroku-ci-menubar
 
-### Resource Intensity
+</div>
+</div>
+
+<div class="bg-purp pa5-ns tc">
+<div class="measure-wide dib tl" markdown="1">
+
+### Electron Resource Intensity
 An electron menubar app uses RAM and CPU resources comparable to other menubar apps.
 
 Casey's electron app `electron-ping` uses this amount of CPU and RAM to run:
@@ -74,3 +80,6 @@ Spot-checks of some other menubar apps running in the background:
 - Dropbox 0.3% CPU, 165MB
 - Screenhero 0.2% CPU, 124MB
 - Google Drive 0.3% CPU, 151MB
+
+</div>
+</div>
