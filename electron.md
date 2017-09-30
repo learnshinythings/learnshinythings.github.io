@@ -12,16 +12,27 @@ Electron Workshop
 </div>
 </div>
 
-<div class="bg-purp-light tc pt5">
+<div class="bg-purp-light tc pt5 flex items-center justify-center">
+
 <div class="f5 measure-wide dib tl" markdown="1">
 <div class="tc pa3 ba br4 b--purple bg-purp shadow-3">
-  <div>Sunday Nov 1, 2017</div>
-  <div>9am - 6pm</div>
+  <div>Sunday Nov 12, 2017</div>
+  <div>10am - 6pm</div>
   <div>at <a href="#">General Assembly</a> (~Farragut area)</div>
-  <div>Lunch Provided</div>
+  <div>$100 for the 8 hour class</div>
+  <div>Lunch Included</div>
 </div>
 </div>
+
+<div class="dib f5 measure-wide dib tl ml5" markdown="1">
+<div class="tc pa3 ba br4 b--purple bg-purp shadow-3">
+  <a href="#">Sign Up</a>
 </div>
+</div>
+
+</div>
+
+
 
 <div class="bg-purp-light pa5-ns tc">
 <div class="measure-wide dib tl" markdown="1">
