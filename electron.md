@@ -26,7 +26,7 @@ Electron Workshop
 
 <div class="dib f5 measure-wide dib tl ml5" markdown="1">
 <div class="tc pa3 ba br4 b--purple bg-purp shadow-3">
-  <a href="#">Sign Up</a>
+  <a href="https://ti.to/learn-shiny-things/learn-electron">Sign Up</a>
 </div>
 </div>
 
