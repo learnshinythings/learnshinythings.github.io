@@ -5,4 +5,8 @@
 layout: general
 ---
 
+<div class="tc ma4">
+<div class="dib tc ph3 ba br4 b--purple bg-purp shadow-3 measure-wide" markdown="1">
 [Electron Class]({{ site.baseurl }}{% link electron.md %})
+</div>
+</div>
