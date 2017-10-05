@@ -24,3 +24,9 @@ body {
 .bg-purp-lightest {
   background-color: #f6f0fe;
 }
+
+.headshot {
+  height: 100px;
+  width: 100px;
+  border-radius: 100px;
+}

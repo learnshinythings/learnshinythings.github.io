@@ -110,3 +110,23 @@ Spot-checks of some other menubar apps running in the background:
 
 </div>
 </div>
+
+<div class="bg-purp pa5-ns tc">
+<div class="measure-wide dib tl" markdown="1">
+### The People
+<div class="person flex items-center mt4">
+  <img src="/headshot-casey.png" class="headshot">
+  <div class="ml3">
+    <div class="f3">Casey Watts</div>
+    <div class="f5 ml3">teaches very well teaches very well teaches very well teaches very well teaches very well teaches very well </div>
+  </div>
+</div>
+<div class="person flex items-center mt4">
+  <img src="/headshot-jon.jpg" class="headshot">
+  <div class="ml3">
+    <div class="f3">Jon Keam</div>
+    <div class="f5 ml3">teaches very well teaches very well teaches very well teaches very well teaches very well teaches very well </div>
+  </div>
+</div>
+</div>
+</div>
