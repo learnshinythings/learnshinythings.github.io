@@ -41,7 +41,23 @@ Electron Workshop
 
 Electron provides a set of [cross-platform APIs](https://github.com/electron/electron-api-demos) you can use to interact with the desktop computer. You can use these to have an icon in the tray/menubar, to display notifications, register keyboard shortcuts, and much more. An Electron application has a node “server” running locally doing most of the work, and often additionally a browser process running locally to display things prettily.
 
-No node experience required, but basic JavaScript experience would be helpful. If you want to play with Node ahead of time anyway (or brush up on your Javascript), I'd recommend NodeSchool's two command-line courses: [Javascripting](https://github.com/workshopper/javascripting) and [LearnYouNode](https://github.com/workshopper/learnyounode). If you'd enjoy reading/skimming a book, I might recommend [Eloquent Javascript](http://eloquentjavascript.net/) (free to read online).
+No node experience required, but some basic JavaScript experience would be helpful. If you want to play with Node ahead of time anyway (or brush up on your Javascript), I'd recommend NodeSchool's two command-line courses: [Javascripting](https://github.com/workshopper/javascripting) and [LearnYouNode](https://github.com/workshopper/learnyounode). If you'd enjoy reading/skimming a book, I might recommend [Eloquent Javascript](http://eloquentjavascript.net/) (free to read online).
+
+This class will walk students through creating a new JavaScript project from scratch. This class will also teach and reinforce ES6/ES2015+ fundamentals, potentially including:
+  - arrow function
+  - classes
+  - enhanced object literal
+  - template strings
+  - destructuring
+  - modules
+  - let vs. const
+  - default parameters
+  - rest parameters
+  - spread operator
+  - promises
+  - async/await
+
+For a quick explanation of the items above check out [Luke Hoban's great writeup](https://github.com/lukehoban/es6features).
 </div>
 </div>
 
