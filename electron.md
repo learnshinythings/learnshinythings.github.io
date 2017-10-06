@@ -58,7 +58,7 @@ Electron Workshop
   <a href="http://jonkeam.com/"><img src="/headshot-jon.png" class="headshot"></a>
   <div class="ml5 measure-wide">
     <a href="http://jonkeam.com/" class="link"><div class="f3">Jon Keam</div></a>
-    <div class="f5">Jon Keam currently works at "It's Hospitality" where he builds tools for hospitality professionals. He works with React, Rails, React Native, WebSockets and Node. He has been a consultant at a company that prioritized both teaching in large groups and mentoring clients one-on-one. Jon believes teaching is best done by seeing the material through the students' eyes.</div>
+    <div class="f5 mt3">Jon Keam currently works at "It's Hospitality" where he builds tools for hospitality professionals. He works with React, Rails, React Native, WebSockets and Node. He has been a consultant at a company that prioritized both teaching in large groups and mentoring clients one-on-one. Jon believes teaching is best done by seeing the material through the students' eyes.</div>
   </div>
 </div>
 
