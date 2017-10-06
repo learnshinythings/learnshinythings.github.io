@@ -14,17 +14,17 @@ layout: general
 </div>
 
 
-<div class="bg-purp-light pa4-ns tc">
+<div class="bg-purp-light pa3 pa4-ns tc">
 
-<div class="flex items-center justify-center mh4 mv3">
-  <img src="/class-photo-banner.png" class="banner">
+<div class="flex items-center justify-center">
+  <img src="/class-photo-banner.png" class="banner mh4 mv3">
 </div>
 
 <div class="flex flex-column flex-row-ns mh4">
-  <div class="measure dib tl mh4" markdown="1">
+  <div class="measure dib tl mh4-ns" markdown="1">
   [Electron](https://electron.atom.io/) is a framework you can use to make desktop applications using JavaScript. You may have already used an Electron app - the Slack desktop app and the text editor Atom are examples.
   </div>
-  <div class="measure dib tl mh4" markdown="1">
+  <div class="measure dib tl mh4-ns" markdown="1">
   In this one-day workshop, you'll produce your own fully-functioning Electron app from scratch. You'll learn about modern javascript (ES2017), Node.js, browser Javascript, and the Electron APIs.
   </div>
 </div>
@@ -58,7 +58,7 @@ layout: general
 <div class="bg-purp pa3 pa5-ns tc flex items-center justify-center">
 <div class="dib tl" markdown="1">
 
-<div class="tc f2 mb5">The Teachers</div>
+<div class="tc f2 mb3 mb5-ns">The Teachers</div>
 
 <div class="flex flex-column flex-row-ns items-center justify-center mt4">
   <a href="http://caseywatts.com/"><img src="/headshot-casey.png" class="headshot"></a>
@@ -82,7 +82,7 @@ layout: general
 <div class="bg-purp-light pa3 pa5-ns tc flex items-center justify-center">
 <div class="dib tl" markdown="1">
 
-<div class="tc f2 mb5">Previous Students</div>
+<div class="tc f2 mb3 mb5-ns">Previous Students</div>
 
 <div class="flex flex-column flex-row-ns items-center justify-center mt4">
   <img src="/headshot-steve.jpg" class="headshot">
@@ -99,7 +99,7 @@ layout: general
 <div class="bg-purp pa3 pa5-ns tc">
 <div class="measure-wide dib tl" markdown="1">
 
-<div class="tc f2 mb5">Workshop Description</div>
+<div class="tc f2 mb3 mb5-ns">Workshop Description</div>
 
 Electron provides a set of [cross-platform APIs](https://github.com/electron/electron-api-demos) you can use to interact with the desktop computer. You can use these to have an icon in the tray/menubar, to display notifications, register keyboard shortcuts, and much more. An Electron application has a node “server” running locally doing most of the work, and often additionally a browser process running locally to display things prettily.
 
@@ -130,7 +130,7 @@ No node experience required, but some basic JavaScript experience would be helpf
 <div class="bg-purp-light pa3 pa5-ns tc">
 <div class="measure-wide dib tl" markdown="1">
 
-<div class="tc f2 mb5">Details</div>
+<div class="tc f2 mb3 mb5-ns">Details</div>
 
 ### Scenario / User Story
 You work remotely. When pair programming or video chatting online, sometimes the connection gets bad.
@@ -172,11 +172,7 @@ Spot-checks of some other menubar apps running in the background on the same com
 </div>
 </div>
 
-<div class="bg-purp tc">
-<div class="measure-wide dib tl" markdown="1">
-Learn Shiny Things
-</div>
-</div>
+<div class="bg-purp pa2 tl tc-ns">Learn Shiny Things</div>
 
 <div>
 <a href="https://ti.to/learn-shiny-things/learn-electron" class="link floaty">
