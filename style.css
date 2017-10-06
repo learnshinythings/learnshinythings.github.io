@@ -45,3 +45,7 @@ code {
   border: 1px solid #8834ee;
   padding: 3px;
 }
+
+p {
+  text-indent: 20px;
+}
