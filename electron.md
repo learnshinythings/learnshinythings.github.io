@@ -75,7 +75,7 @@ layout: general
 <div class="bg-purp-light pa5-ns tc flex items-center justify-center">
 <div class="dib tl" markdown="1">
 
-<div class="tc f2 mb5">Testimonials</div>
+<div class="tc f2 mb5">Previous Students</div>
 
 <div class="flex items-center justify-center mt4">
   <img src="/headshot-steve.jpg" class="headshot">
