@@ -12,33 +12,39 @@ Electron Workshop
 </div>
 </div>
 
-<div class="bg-purp-light tc pt5 flex items-center justify-center">
 
-<div class="f5 measure-wide dib tl" markdown="1">
-<div class="tc pa3 ba br4 b--purple bg-purp shadow-3">
-  <div>Sunday Nov 12, 2017</div>
-  <div>10am - 6pm</div>
-  <div>at <a href="https://generalassemb.ly/locations/washington-dc">General Assembly</a> (~Farragut area)</div>
-  <div>$100 for the 8 hour class</div>
-  <div>Lunch Included</div>
+<div class="bg-purp-light pa4-ns tc">
+<div class="measure-wide dib tl" markdown="1">
+  [Electron](https://electron.atom.io/) is a framework you can use to make desktop applications using JavaScript. You may have already used an Electron app if you have the Slack app or the text editor Atom. With Electron, making a simple desktop application is as easy as making a simple web application.
+
+  <div class="flex items-center justify-center mt4">
+    <img src="/class-photo-banner.png" class="banner">
+  </div>
+
+  In this one-day workshop, you'll use modern javascript (ES2017) to make an Electron menubar app that will help you understand how reliable your current wifi connection is. You'll use desktop notifications, a menubar icon, and global hotkeys.
+
+  <div class="flex flex-column items-center justify-center mt4">
+    <div class="tc pa3 ma3 ba br4 b--purple bg-purp shadow-3">
+      <div>Sunday Nov 12, 2017</div>
+      <div>10am - 5pm</div>
+      <div>at <a href="https://generalassemb.ly/locations/washington-dc">General Assembly</a> (~Farragut area)</div>
+      <div>$100 for the 8 hour class</div>
+      <div>Lunch Included</div>
+    </div>
+
+    <div class="tc pa3 ma3 ba br4 b--purple bg-purp shadow-3">
+      <a href="https://ti.to/learn-shiny-things/learn-electron">Sign Up</a>
+    </div>
+  </div>
 </div>
 </div>
 
-<div class="dib f5 measure-wide dib tl ml5" markdown="1">
-<div class="tc pa3 ba br4 b--purple bg-purp shadow-3">
-  <a href="https://ti.to/learn-shiny-things/learn-electron">Sign Up</a>
-</div>
-</div>
-
-</div>
 
 
 
-<div class="bg-purp-light pa5-ns tc">
+<div class="bg-purp pa5-ns tc">
 <div class="measure-wide dib tl" markdown="1">
 ### Workshop Description
-[Electron](https://electron.atom.io/) is a framework you can use to make desktop applications using JavaScript. You may have already used an Electron app if you have the Slack app or the text editor Atom. With electron, making a simple desktop application is as easy as making a simple web application. Learn to make your own Electron app in this 8 hour workshop :D
-
 Electron provides a set of [cross-platform APIs](https://github.com/electron/electron-api-demos) you can use to interact with the desktop computer. You can use these to have an icon in the tray/menubar, to display notifications, register keyboard shortcuts, and much more. An Electron application has a node “server” running locally doing most of the work, and often additionally a browser process running locally to display things prettily.
 
 No node experience required, but some basic JavaScript experience would be helpful. If you want to play with Node ahead of time anyway (or brush up on your Javascript), I'd recommend NodeSchool's two command-line courses: [Javascripting](https://github.com/workshopper/javascripting) and [LearnYouNode](https://github.com/workshopper/learnyounode). If you'd enjoy reading/skimming a book, I might recommend [Eloquent Javascript](http://eloquentjavascript.net/) (free to read online).
@@ -61,6 +67,9 @@ For a quick explanation of the items above check out [Luke Hoban's great writeup
 </div>
 </div>
 
+
+
+
 <div class="bg-purp pa5-ns tc">
 <div class="measure-wide dib tl" markdown="1">
 ### Scenario / User Story
@@ -73,6 +82,7 @@ You'd love it if:
 2. You could get a notification when your wifi goes out, or comes back
 </div>
 </div>
+
 
 <div class="bg-purp-light pa5-ns tc">
 <div class="measure-wide dib tl" markdown="1">
