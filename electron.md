@@ -29,22 +29,28 @@ layout: general
   </div>
 </div>
 
-<div class="flex flex-column items-center justify-center">
+<div class="flex items-center justify-center">
   <div class="tc pa3 ma3 ba b--purple bg-purp-light">
-    <div>Sunday Nov 12, 2017</div>
-    <div class="mb3">10am - 5pm</div>
+    <div>Nov 12, 2017</div>
+    <div>Sunday</div>
+    <div>10am - 5pm</div>
+  </div>
+  <div class="tc pa3 ma3 ba b--purple bg-purp-light">
     <div>at <a href="https://generalassemb.ly/locations/washington-dc" class="">General Assembly</a></div>
     <div>(Downtown DC)</div>
-    <div class="mt3">$100</div>
-    <div>morning coffee &amp; lunch Included</div>
   </div>
-
-  <a href="https://ti.to/learn-shiny-things/learn-electron" class="link ma3">
-    <div class="tc pa3 ba br4 b--purple bg-purp bg-hover-purp-dark shadow-3">
-      Register Interest or Sign Up
-    </div>
-  </a>
+  <div class="tc pa3 ma3 ba b--purple bg-purp-light">
+    <div>$100</div>
+    <div>morning coffee &amp;</div>
+    <div>lunch included</div>
+  </div>
 </div>
+
+<a href="https://ti.to/learn-shiny-things/learn-electron" class="link ma3 dib">
+  <div class="tc pa3 ba br4 b--purple bg-purp bg-hover-purp-dark shadow-3">
+    Register Interest or Sign Up
+  </div>
+</a>
 
 </div>
 
