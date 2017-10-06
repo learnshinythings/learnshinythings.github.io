@@ -25,6 +25,13 @@ body {
   background-color: #f6f0fe;
 }
 
+.bg-hover-purp-light:hover {
+  background-color: #dbc1fa;
+}
+.bg-hover-purp-dark:hover {
+  background-color: #a363f2;
+}
+
 .link {
   text-decoration: none;
 }
