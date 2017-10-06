@@ -166,6 +166,12 @@ Spot-checks of some other menubar apps running in the background on the same com
 </div>
 </div>
 
+<div class="bg-purp tc">
+<div class="measure-wide dib tl" markdown="1">
+Learn Shiny Things
+</div>
+</div>
+
 <div>
 <a href="https://ti.to/learn-shiny-things/learn-electron" class="link floaty">
   <div class="tc pa3 ba br4 b--purple bg-purp shadow-3">
