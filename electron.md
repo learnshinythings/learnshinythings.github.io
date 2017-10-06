@@ -17,7 +17,7 @@ Electron Workshop
 <div class="measure-wide dib tl" markdown="1">
   [Electron](https://electron.atom.io/) is a framework you can use to make desktop applications using JavaScript. You may have already used an Electron app if you have the Slack app or the text editor Atom. With Electron, making a simple desktop application is as easy as making a simple web application.
 
-  <div class="flex items-center justify-center mt4">
+  <div class="flex items-center justify-center mv4">
     <img src="/class-photo-banner.png" class="banner">
   </div>
 
