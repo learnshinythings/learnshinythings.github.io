@@ -29,17 +29,17 @@ layout: general
   </div>
 </div>
 
-<div class="flex items-center justify-center">
-  <div class="tc pa3 ma3 ba b--purple bg-purp-light">
+<div class="flex items-center items-stretch justify-center">
+  <div class="tc pa3 ma3 ba b--purple bg-purp-light flex flex-column justify-center">
     <div>Nov 12, 2017</div>
     <div>Sunday</div>
     <div>10am - 5pm</div>
   </div>
-  <div class="tc pa3 ma3 ba b--purple bg-purp-light">
+  <div class="tc pa3 ma3 ba b--purple bg-purp-light flex flex-column justify-center">
     <div>at <a href="https://generalassemb.ly/locations/washington-dc" class="">General Assembly</a></div>
     <div>(Downtown DC)</div>
   </div>
-  <div class="tc pa3 ma3 ba b--purple bg-purp-light">
+  <div class="tc pa3 ma3 ba b--purple bg-purp-light flex flex-column justify-center">
     <div>$100</div>
     <div>morning coffee &amp;</div>
     <div>lunch included</div>
