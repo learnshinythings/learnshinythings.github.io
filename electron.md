@@ -17,7 +17,7 @@ layout: general
 <div class="bg-purp-light pa3 pa4-ns tc">
 
 <div class="flex items-center justify-center">
-  <img src="/class-photo-banner.png" class="banner mh4 mv3">
+  <img src="/class-photo-banner.jpg" class="banner mh4 mv3">
 </div>
 
 <div class="flex flex-column flex-row-ns mh4">
