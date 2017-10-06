@@ -130,5 +130,21 @@ Spot-checks of some other menubar apps running in the background:
     <div class="f5 ml3">teaches very well teaches very well teaches very well teaches very well teaches very well teaches very well </div>
   </div>
 </div>
+
+</div>
+</div>
+
+<div class="bg-purp pa5-ns tc flex items-center justify-center">
+<div class="dib tl" markdown="1">
+
+### Testimonials
+<div class="flex items-center justify-center mt4">
+  <img src="/headshot-steve.jpg" class="headshot">
+  <div class="ml5 measure-wide">
+    <div class="f3">Steve Chen</div>
+    <div class="f5 mt3">"I never thought I'd make a desktop appwith Javascript. I really liked the upbeat teaching style of Casey Watts - very entertaining and enthusiastic."</div>
+  </div>
+</div>
+
 </div>
 </div>
