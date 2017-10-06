@@ -7,36 +7,44 @@ layout: general
 
 
 <div class="bg-purp tc">
-<div class="f2 tracked measure-wide dib tl pv2">Electron Workshop</div>
+<div class="dib pv3">
+  <div class="f2 tracked">Electron</div>
+  <div class="f5">in One Day</div>
+</div>
 </div>
 
 
 <div class="bg-purp-light pa4-ns tc">
-<div class="measure-wide dib tl" markdown="1">
+
+<div class="flex items-center justify-center mh5 mv3">
+  <img src="/class-photo-banner.png" class="banner">
+</div>
+
+<div class="flex mh4">
+  <div class="measure dib tl mh4" markdown="1">
   [Electron](https://electron.atom.io/) is a framework you can use to make desktop applications using JavaScript. You may have already used an Electron app if you have the Slack app or the text editor Atom. With Electron, making a simple desktop application is as easy as making a simple web application.
-
-  <div class="flex items-center justify-center mv4">
-    <img src="/class-photo-banner.png" class="banner">
   </div>
-
+  <div class="measure dib tl mh4" markdown="1">
   In this one-day workshop, you'll use modern javascript (ES2017) to make an Electron menubar app that will help you understand how reliable your current wifi connection is. You'll use desktop notifications, a menubar icon, and global hotkeys.
-
-  <div class="flex flex-column items-center justify-center mt4">
-    <div class="tc pa3 ma3 ba b--purple bg-purp-light">
-      <div>Sunday Nov 12, 2017</div>
-      <div>10am - 5pm</div>
-      <div>at <a href="https://generalassemb.ly/locations/washington-dc" class="link">General Assembly</a> (~Farragut area)</div>
-      <div>$100 for the 8 hour class</div>
-      <div>Lunch Included</div>
-    </div>
-
-    <a href="https://ti.to/learn-shiny-things/learn-electron" class="link ma3">
-      <div class="tc pa3 ba br4 b--purple bg-purp shadow-3">
-        Register Interest or Sign Up
-      </div>
-    </a>
   </div>
 </div>
+
+<div class="flex flex-column items-center justify-center">
+  <div class="tc pa3 ma3 ba b--purple bg-purp-light">
+    <div>Sunday Nov 12, 2017</div>
+    <div>10am - 5pm</div>
+    <div>at <a href="https://generalassemb.ly/locations/washington-dc" class="link">General Assembly</a> (~Farragut area)</div>
+    <div>$100 for the 8 hour class</div>
+    <div>Lunch Included</div>
+  </div>
+
+  <a href="https://ti.to/learn-shiny-things/learn-electron" class="link ma3">
+    <div class="tc pa3 ba br4 b--purple bg-purp shadow-3">
+      Register Interest or Sign Up
+    </div>
+  </a>
+</div>
+
 </div>
 
 
