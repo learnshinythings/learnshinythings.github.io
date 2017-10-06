@@ -99,11 +99,19 @@ layout: general
 <div class="bg-purp pa3 pa5-ns tc">
 <div class="measure-wide dib tl" markdown="1">
 
-<div class="tc f2 mb3 mb5-ns">Workshop Description</div>
+<div class="tc f2 mb3 mb5-ns">Workshop Details</div>
 
+### Prerequisites?
+
+Required: basic programming experience in JavaScript. Variables, functions, loops, JSON.
+
+Node experience is NOT required. If you want to play with Node ahead of time anyway (or brush up on your Javascript), We'd recommend NodeSchool's two command-line courses: [Javascripting](https://github.com/workshopper/javascripting) and [LearnYouNode](https://github.com/workshopper/learnyounode). If you'd enjoy reading/skimming a book, we might recommend [Eloquent Javascript](http://eloquentjavascript.net/) (free to read online).
+
+
+### What will I learn?
 Electron provides a set of [cross-platform APIs](https://github.com/electron/electron-api-demos) you can use to interact with the desktop computer. You can use these to have an icon in the tray/menubar, to display notifications, register keyboard shortcuts, and much more. An Electron application has a node “server” running locally doing most of the work, and often additionally a browser process running locally to display things prettily.
 
-This class will walk students through creating a new JavaScript project from scratch. This class will also teach and reinforce [ES2017 fundamentals](https://github.com/lukehoban/es6features), potentially including:
+This class will also teach and reinforce [ES2017 fundamentals](https://github.com/lukehoban/es6features), potentially including:
   - arrow function
   - classes
   - enhanced object literal
@@ -117,9 +125,22 @@ This class will walk students through creating a new JavaScript project from scr
   - promises
   - async/await
 
-### Prerequisites
 
-No node experience required, but some basic JavaScript experience would be helpful. If you want to play with Node ahead of time anyway (or brush up on your Javascript), We'd recommend NodeSchool's two command-line courses: [Javascripting](https://github.com/workshopper/javascripting) and [LearnYouNode](https://github.com/workshopper/learnyounode). If you'd enjoy reading/skimming a book, we might recommend [Eloquent Javascript](http://eloquentjavascript.net/) (free to read online).
+### Is Electron good enough to actually use?
+
+Yep!
+
+Seems too good to be true? Apps built with Electron include: Slack, Atom, VSCode, Franz, Twitch, Discord, Github Desktop, and [more](https://electron.atom.io/apps/).
+
+The biggest concern people have about using Electron is the possibility that the end product might be more resource-intensive than a native app. In our research, an electron menubar app uses RAM and CPU comparable to other menubar apps.
+
+Casey's electron app `electron-ping` uses this amount of CPU and RAM to run:
+- 0.9% CPU, 70.6 MB of RAM
+
+Spot-checks of some other menubar apps running in the background on the same computed:
+- Dropbox 0.3% CPU, 165MB
+- Screenhero 0.2% CPU, 124MB
+- Google Drive 0.3% CPU, 151MB
 
 </div>
 </div>
@@ -130,7 +151,7 @@ No node experience required, but some basic JavaScript experience would be helpf
 <div class="bg-purp-light pa3 pa5-ns tc">
 <div class="measure-wide dib tl" markdown="1">
 
-<div class="tc f2 mb3 mb5-ns">Details</div>
+<div class="tc f2 mb3 mb5-ns">Project Details</div>
 
 ### Scenario / User Story
 You work remotely. When pair programming or video chatting online, sometimes the connection gets bad.
@@ -157,22 +178,11 @@ And an unrelated application that Casey wrote:
 
 - [https://github.com/caseywatts/heroku-ci-menubar](https://github.com/caseywatts/heroku-ci-menubar)
 
-### Is Electron Good Enough To Use?
-
-The biggest concern people have about using Electron is the possibility that the end product might be more resource-intensive than a native app. In our research, an electron menubar app uses RAM and CPU comparable to other menubar apps.
-
-Casey's electron app `electron-ping` uses this amount of CPU and RAM to run:
-- 0.9% CPU, 70.6 MB of RAM
-
-Spot-checks of some other menubar apps running in the background on the same computed:
-- Dropbox 0.3% CPU, 165MB
-- Screenhero 0.2% CPU, 124MB
-- Google Drive 0.3% CPU, 151MB
 
 </div>
 </div>
 
-<div class="bg-purp pa2 tl tc-ns">Learn Shiny Things</div>
+<div class="bg-purp pa3 tl tc-ns">Learn Shiny Things</div>
 
 <div>
 <a href="https://ti.to/learn-shiny-things/learn-electron" class="link floaty">
