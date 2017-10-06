@@ -45,7 +45,7 @@ Electron Workshop
 <div class="bg-purp pa5-ns tc flex items-center justify-center">
 <div class="dib tl" markdown="1">
 
-### The Teachers
+## The Teachers
 <div class="flex items-center justify-center mt4">
   <img src="/headshot-casey.png" class="headshot">
   <div class="ml5 measure-wide">
@@ -68,7 +68,7 @@ Electron Workshop
 <div class="bg-purp-light pa5-ns tc flex items-center justify-center">
 <div class="dib tl" markdown="1">
 
-### Testimonials
+## Testimonials
 <div class="flex items-center justify-center mt4">
   <img src="/headshot-steve.jpg" class="headshot">
   <div class="ml5 measure-wide">
@@ -83,7 +83,7 @@ Electron Workshop
 
 <div class="bg-purp pa5-ns tc">
 <div class="measure-wide dib tl" markdown="1">
-### Workshop Description
+## Workshop Description
 Electron provides a set of [cross-platform APIs](https://github.com/electron/electron-api-demos) you can use to interact with the desktop computer. You can use these to have an icon in the tray/menubar, to display notifications, register keyboard shortcuts, and much more. An Electron application has a node “server” running locally doing most of the work, and often additionally a browser process running locally to display things prettily.
 
 No node experience required, but some basic JavaScript experience would be helpful. If you want to play with Node ahead of time anyway (or brush up on your Javascript), I'd recommend NodeSchool's two command-line courses: [Javascripting](https://github.com/workshopper/javascripting) and [LearnYouNode](https://github.com/workshopper/learnyounode). If you'd enjoy reading/skimming a book, I might recommend [Eloquent Javascript](http://eloquentjavascript.net/) (free to read online).
@@ -111,6 +111,7 @@ For a quick explanation of the items above check out [Luke Hoban's great writeup
 
 <div class="bg-purp-light pa5-ns tc">
 <div class="measure-wide dib tl" markdown="1">
+## Details
 ### Scenario / User Story
 You work remotely. When pair programming or video chatting online, sometimes the connection gets bad.
 You're never sure if it's your side or their side having issues.
