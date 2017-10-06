@@ -111,17 +111,19 @@ Spot-checks of some other menubar apps running in the background:
 </div>
 </div>
 
-<div class="bg-purp pa5-ns tc flex items-center justify-center">
+<div class="bg-purp-light pa5-ns tc flex items-center justify-center">
 <div class="dib tl" markdown="1">
-### The People
-<div class="person flex items-center mt4">
+
+### The Teachers
+<div class="flex items-center justify-center mt4">
   <img src="/headshot-casey.png" class="headshot">
   <div class="ml5 measure-wide">
-    <div class="f3">Casey Watts</div>
+    <div class="f3">Casey Watts!</div>
     <div class="f5 mt3">"Casey Watts!" currently works for Heroku. He works with Ember, React, Web Components, ES7+, Node, and Ruby. Casey has taught at a Yale University Web Development Bootcamp (Ruby on Rails + JS). He claims pair programming can triple the rate at which you learn. He has spoken and taught on several continents to audiences of up to 800 people. He never leaves home without bubbles.</div>
   </div>
 </div>
-<div class="person flex items-center mt4">
+
+<div class="flex items-center justify-center mt4">
   <img src="/headshot-jon.jpg" class="headshot">
   <div class="ml5 measure-wide">
     <div class="f3">Jon Keam</div>
