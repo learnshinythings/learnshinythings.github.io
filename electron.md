@@ -57,7 +57,7 @@ layout: general
   <a href="http://caseywatts.com/"><img src="/headshot-casey.png" class="headshot"></a>
   <div class="ml5 measure-wide">
     <a href="http://caseywatts.com/" class="link"><div class="f3">Casey Watts!</div></a>
-    <div class="f5 mt3">"Casey Watts!" currently works for Heroku. He works with Ember, React, Web Components, ES7+, Node, and Ruby. Casey has taught at a Yale University Web Development Bootcamp (Ruby on Rails + JS). He claims pair programming can triple the rate at which you learn. He has spoken and taught on several continents to audiences of up to 800 people. He never leaves home without bubbles.</div>
+    <div class="f5 mt3">"Casey Watts!" currently works for Heroku. He works with Ember, React, Web Components, ES2017, Node, and Ruby. Casey has taught at a Yale University Web Development Bootcamp (Ruby on Rails + JS). He claims pair programming can triple the rate at which you learn. He has spoken and taught on several continents to audiences of up to 800 people. He never leaves home without bubbles.</div>
   </div>
 </div>
 
