@@ -87,8 +87,8 @@ layout: general
 <div class="flex flex-column flex-row-ns items-center justify-center mt4">
   <img src="/headshot-steve.jpg" class="headshot">
   <div class="ma3 ml5-ns measure-wide">
-    <div class="f3">Steve Chen</div>
     <div class="f5 mt3">"I never thought I'd make a desktop app with Javascript. I really liked the upbeat teaching style of Casey Watts - very entertaining and enthusiastic."</div>
+    <div class="f4 fr">- Steve Chen</div>
   </div>
 </div>
 
