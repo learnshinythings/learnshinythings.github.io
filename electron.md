@@ -61,7 +61,7 @@ layout: general
 <div class="tc f2 mb3 mb5-ns">The Teachers</div>
 
 <div class="flex flex-column flex-row-ns items-center justify-center mt4">
-  <a href="http://caseywatts.com/"><img src="/headshot-casey.png" class="headshot"></a>
+  <a href="http://caseywatts.com/"><img src="/headshot-casey.jpg" class="headshot"></a>
   <div class="ma3 ml5-ns measure-wide">
     <a href="http://caseywatts.com/" class="link"><div class="f3">Casey Watts!</div></a>
     <div class="f5 mt3">"Casey Watts!" currently works for Heroku. He works with Ember, React, Web Components, ES2017, Node, and Ruby. Casey has taught at a Yale University Web Development Bootcamp (Ruby on Rails + JS). He claims pair programming can triple the rate at which you learn. He has spoken and taught on several continents to audiences of up to 800 people. He never leaves home without bubbles.</div>
@@ -69,7 +69,7 @@ layout: general
 </div>
 
 <div class="flex flex-column flex-row-ns items-center justify-center mt4">
-  <a href="http://jonkeam.com/"><img src="/headshot-jon.png" class="headshot"></a>
+  <a href="http://jonkeam.com/"><img src="/headshot-jon.jpg" class="headshot"></a>
   <div class="ma3 ml5-ns measure-wide">
     <a href="http://jonkeam.com/" class="link"><div class="f3">Jon Keam</div></a>
     <div class="f5 mt3">Jon Keam currently works at "It's Hospitality" where he builds tools for hospitality professionals. He works with React, Rails, React Native, WebSockets and Node. He has been a consultant at a company that prioritized both teaching in large groups and mentoring clients one-on-one. Jon believes teaching is best done by seeing the material through the students' eyes.</div>
