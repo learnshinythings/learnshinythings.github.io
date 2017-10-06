@@ -34,8 +34,8 @@ layout: general
     <div>Sunday Nov 12, 2017</div>
     <div>10am - 5pm</div>
     <div>at <a href="https://generalassemb.ly/locations/washington-dc" class="link">General Assembly</a> (~Farragut area)</div>
-    <div>$100 for the 8 hour class</div>
     <div>Morning Coffee & Lunch Included</div>
+    <div>$100 for the 8 hour class</div>
   </div>
 
   <a href="https://ti.to/learn-shiny-things/learn-electron" class="link ma3">
