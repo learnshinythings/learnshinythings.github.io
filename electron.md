@@ -142,7 +142,7 @@ Spot-checks of some other menubar apps running in the background:
   <img src="/headshot-steve.jpg" class="headshot">
   <div class="ml5 measure-wide">
     <div class="f3">Steve Chen</div>
-    <div class="f5 mt3">"I never thought I'd make a desktop appwith Javascript. I really liked the upbeat teaching style of Casey Watts - very entertaining and enthusiastic."</div>
+    <div class="f5 mt3">"I never thought I'd make a desktop app with Javascript. I really liked the upbeat teaching style of Casey Watts - very entertaining and enthusiastic."</div>
   </div>
 </div>
 
