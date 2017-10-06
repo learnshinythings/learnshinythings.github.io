@@ -20,7 +20,7 @@ layout: general
   <img src="/class-photo-banner.png" class="banner">
 </div>
 
-<div class="flex mh4">
+<div class="flex flex-column flex-row-ns mh4">
   <div class="measure dib tl mh4" markdown="1">
   [Electron](https://electron.atom.io/) is a framework you can use to make desktop applications using JavaScript. You may have already used an Electron app - the Slack desktop app and the text editor Atom are examples.
   </div>
@@ -29,7 +29,7 @@ layout: general
   </div>
 </div>
 
-<div class="flex items-center items-stretch justify-center">
+<div class="flex flex-column flex-row-ns items-center items-stretch justify-center">
   <div class="tc pa3 ma3 ba b--purple bg-purp-light flex flex-column justify-center">
     <div>Nov 12, 2017</div>
     <div>Sunday</div>
@@ -55,22 +55,22 @@ layout: general
 </div>
 
 
-<div class="bg-purp pa5-ns tc flex items-center justify-center">
+<div class="bg-purp pa3 pa5-ns tc flex items-center justify-center">
 <div class="dib tl" markdown="1">
 
 <div class="tc f2 mb5">The Teachers</div>
 
-<div class="flex items-center justify-center mt4">
+<div class="flex flex-column flex-row-ns items-center justify-center mt4">
   <a href="http://caseywatts.com/"><img src="/headshot-casey.png" class="headshot"></a>
-  <div class="ml5 measure-wide">
+  <div class="ma3 ml5-ns measure-wide">
     <a href="http://caseywatts.com/" class="link"><div class="f3">Casey Watts!</div></a>
     <div class="f5 mt3">"Casey Watts!" currently works for Heroku. He works with Ember, React, Web Components, ES2017, Node, and Ruby. Casey has taught at a Yale University Web Development Bootcamp (Ruby on Rails + JS). He claims pair programming can triple the rate at which you learn. He has spoken and taught on several continents to audiences of up to 800 people. He never leaves home without bubbles.</div>
   </div>
 </div>
 
-<div class="flex items-center justify-center mt4">
+<div class="flex flex-column flex-row-ns items-center justify-center mt4">
   <a href="http://jonkeam.com/"><img src="/headshot-jon.png" class="headshot"></a>
-  <div class="ml5 measure-wide">
+  <div class="ma3 ml5-ns measure-wide">
     <a href="http://jonkeam.com/" class="link"><div class="f3">Jon Keam</div></a>
     <div class="f5 mt3">Jon Keam currently works at "It's Hospitality" where he builds tools for hospitality professionals. He works with React, Rails, React Native, WebSockets and Node. He has been a consultant at a company that prioritized both teaching in large groups and mentoring clients one-on-one. Jon believes teaching is best done by seeing the material through the students' eyes.</div>
   </div>
@@ -79,14 +79,14 @@ layout: general
 </div>
 </div>
 
-<div class="bg-purp-light pa5-ns tc flex items-center justify-center">
+<div class="bg-purp-light pa3 pa5-ns tc flex items-center justify-center">
 <div class="dib tl" markdown="1">
 
 <div class="tc f2 mb5">Previous Students</div>
 
-<div class="flex items-center justify-center mt4">
+<div class="flex flex-column flex-row-ns items-center justify-center mt4">
   <img src="/headshot-steve.jpg" class="headshot">
-  <div class="ml5 measure-wide">
+  <div class="ma3 ml5-ns measure-wide">
     <div class="f3">Steve Chen</div>
     <div class="f5 mt3">"I never thought I'd make a desktop app with Javascript. I really liked the upbeat teaching style of Casey Watts - very entertaining and enthusiastic."</div>
   </div>
@@ -96,7 +96,7 @@ layout: general
 </div>
 
 
-<div class="bg-purp pa5-ns tc">
+<div class="bg-purp pa3 pa5-ns tc">
 <div class="measure-wide dib tl" markdown="1">
 
 <div class="tc f2 mb5">Workshop Description</div>
@@ -127,7 +127,7 @@ No node experience required, but some basic JavaScript experience would be helpf
 
 
 
-<div class="bg-purp-light pa5-ns tc">
+<div class="bg-purp-light pa3 pa5-ns tc">
 <div class="measure-wide dib tl" markdown="1">
 
 <div class="tc f2 mb5">Details</div>
