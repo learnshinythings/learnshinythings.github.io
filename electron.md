@@ -124,7 +124,7 @@ Spot-checks of some other menubar apps running in the background:
 </div>
 
 <div class="flex items-center justify-center mt4">
-  <img src="/headshot-jon.jpg" class="headshot">
+  <img src="/headshot-jon.png" class="headshot">
   <div class="ml5 measure-wide">
     <div class="f3">Jon Keam</div>
     <div class="f5 ml3">teaches very well teaches very well teaches very well teaches very well teaches very well teaches very well </div>
