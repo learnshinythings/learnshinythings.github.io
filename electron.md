@@ -88,8 +88,7 @@ Electron provides a set of [cross-platform APIs](https://github.com/electron/ele
 
 No node experience required, but some basic JavaScript experience would be helpful. If you want to play with Node ahead of time anyway (or brush up on your Javascript), I'd recommend NodeSchool's two command-line courses: [Javascripting](https://github.com/workshopper/javascripting) and [LearnYouNode](https://github.com/workshopper/learnyounode). If you'd enjoy reading/skimming a book, I might recommend [Eloquent Javascript](http://eloquentjavascript.net/) (free to read online).
 
-This class will walk students through creating a new JavaScript project from scratch. This class will also teach and reinforce [ES2017 fundamentals](https://github.com/lukehoban/es6features)
-, potentially including:
+This class will walk students through creating a new JavaScript project from scratch. This class will also teach and reinforce [ES2017 fundamentals](https://github.com/lukehoban/es6features), potentially including:
   - arrow function
   - classes
   - enhanced object literal
@@ -123,19 +122,19 @@ You'd love it if:
 
 
 ### Our Project
-In this workshop, you will create from start to finish a tray icon that will display whether or not you are currently connected to the internet. A node process inside of the Electron app will ping google.com every second. We will then:
+In this workshop, you will create from start to finish a tray icon that will display whether or not you are currently connected to the internet. A node process inside of the Electron app will `ping google.com every second. We will then:
 
 1. Use the tray api to change the app’s icon to reflect the current state
 2. Display a notification when the internet appears to go up or down
 
 You can see two example applications like this, here:
 
-- https://github.com/groeneveld/am-i-connected
-- https://github.com/caseywatts/electron-ping
+- [https://github.com/groeneveld/am-i-connected](https://github.com/groeneveld/am-i-connected)
+- [https://github.com/caseywatts/electron-ping](https://github.com/caseywatts/electron-ping)
 
 And an unrelated application that I've written:
 
-- https://github.com/caseywatts/heroku-ci-menubar
+- [https://github.com/caseywatts/heroku-ci-menubar](https://github.com/caseywatts/heroku-ci-menubar)
 
 ### Electron Resource Intensity
 An electron menubar app uses RAM and CPU resources comparable to other menubar apps.
