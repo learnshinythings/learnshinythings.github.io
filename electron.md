@@ -7,9 +7,7 @@ layout: general
 
 
 <div class="bg-purp tc">
-<div class="f2 tracked measure-wide dib tl" markdown="1">
-Electron Workshop
-</div>
+<div class="f2 tracked measure-wide dib tl pv2">Electron Workshop</div>
 </div>
 
 
@@ -45,7 +43,8 @@ Electron Workshop
 <div class="bg-purp pa5-ns tc flex items-center justify-center">
 <div class="dib tl" markdown="1">
 
-## The Teachers
+<div class="tc f2 mb5">The Teachers</div>
+
 <div class="flex items-center justify-center mt4">
   <a href="http://caseywatts.com/"><img src="/headshot-casey.png" class="headshot"></a>
   <div class="ml5 measure-wide">
@@ -68,7 +67,8 @@ Electron Workshop
 <div class="bg-purp-light pa5-ns tc flex items-center justify-center">
 <div class="dib tl" markdown="1">
 
-## Testimonials
+<div class="tc f2 mb5">Testimonials</div>
+
 <div class="flex items-center justify-center mt4">
   <img src="/headshot-steve.jpg" class="headshot">
   <div class="ml5 measure-wide">
@@ -83,7 +83,9 @@ Electron Workshop
 
 <div class="bg-purp pa5-ns tc">
 <div class="measure-wide dib tl" markdown="1">
-## Workshop Description
+
+<div class="tc f2 mb5">Workshop Description</div>
+
 Electron provides a set of [cross-platform APIs](https://github.com/electron/electron-api-demos) you can use to interact with the desktop computer. You can use these to have an icon in the tray/menubar, to display notifications, register keyboard shortcuts, and much more. An Electron application has a node “server” running locally doing most of the work, and often additionally a browser process running locally to display things prettily.
 
 No node experience required, but some basic JavaScript experience would be helpful. If you want to play with Node ahead of time anyway (or brush up on your Javascript), I'd recommend NodeSchool's two command-line courses: [Javascripting](https://github.com/workshopper/javascripting) and [LearnYouNode](https://github.com/workshopper/learnyounode). If you'd enjoy reading/skimming a book, I might recommend [Eloquent Javascript](http://eloquentjavascript.net/) (free to read online).
@@ -110,7 +112,9 @@ This class will walk students through creating a new JavaScript project from scr
 
 <div class="bg-purp-light pa5-ns tc">
 <div class="measure-wide dib tl" markdown="1">
-## Details
+
+<div class="tc f2 mb5">Details</div>
+
 ### Scenario / User Story
 You work remotely. When pair programming or video chatting online, sometimes the connection gets bad.
 You're never sure if it's your side or their side having issues.
