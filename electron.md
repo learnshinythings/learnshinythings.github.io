@@ -24,7 +24,7 @@ Electron Workshop
   In this one-day workshop, you'll use modern javascript (ES2017) to make an Electron menubar app that will help you understand how reliable your current wifi connection is. You'll use desktop notifications, a menubar icon, and global hotkeys.
 
   <div class="flex flex-column items-center justify-center mt4">
-    <div class="tc pa3 ma3 ba br4 b--purple bg-purp-light">
+    <div class="tc pa3 ma3 ba b--purple bg-purp-light">
       <div>Sunday Nov 12, 2017</div>
       <div>10am - 5pm</div>
       <div>at <a href="https://generalassemb.ly/locations/washington-dc" class="link">General Assembly</a> (~Farragut area)</div>
