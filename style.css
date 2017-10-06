@@ -42,7 +42,6 @@ body {
 }
 
 code {
-  border-top: 1px solid #8834ee;
-  border-bottom: 1px solid #8834ee;
-  padding: 2px;
+  border: 1px solid #8834ee;
+  padding: 3px;
 }
