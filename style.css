@@ -51,3 +51,7 @@ code {
 p {
   text-indent: 20px;
 }
+
+ul, ol {
+  padding-left: 60px;
+}
