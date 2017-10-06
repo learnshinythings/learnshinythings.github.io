@@ -127,7 +127,7 @@ Spot-checks of some other menubar apps running in the background:
   <img src="/headshot-jon.png" class="headshot">
   <div class="ml5 measure-wide">
     <div class="f3">Jon Keam</div>
-    <div class="f5 ml3">Jon Keam currently works at "It's Hospitality" where he builds tools for hospitality professionals. He works with React, Rails, and React Native. He has been a consultant at a company that prioritized both teaching in large groups and mentoring clients one-on-one. Jon believes teaching is best done by seeing the material through the students' eyes.</div>
+    <div class="f5">Jon Keam currently works at "It's Hospitality" where he builds tools for hospitality professionals. He works with React, Rails, and React Native. He has been a consultant at a company that prioritized both teaching in large groups and mentoring clients one-on-one. Jon believes teaching is best done by seeing the material through the students' eyes.</div>
   </div>
 </div>
 
