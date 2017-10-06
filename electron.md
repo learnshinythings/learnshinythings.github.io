@@ -25,7 +25,7 @@ layout: general
   [Electron](https://electron.atom.io/) is a framework you can use to make desktop applications using JavaScript. You may have already used an Electron app - the Slack desktop app and the text editor Atom are examples.
   </div>
   <div class="measure dib tl mh4" markdown="1">
-  In this one-day workshop, you'll produce your own fully-functioning Electron app from scratch. You'll learn about modern javascript (ES2017), Node.js, browser Javascript, and Electron APIs.
+  In this one-day workshop, you'll produce your own fully-functioning Electron app from scratch. You'll learn about modern javascript (ES2017), Node.js, browser Javascript, and the Electron APIs.
   </div>
 </div>
 
