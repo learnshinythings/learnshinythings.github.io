@@ -149,3 +149,11 @@ Spot-checks of some other menubar apps running in the background:
 
 </div>
 </div>
+
+<div>
+<a href="https://ti.to/learn-shiny-things/learn-electron" class="link floaty">
+  <div class="tc pa3 ma3 ba br4 b--purple bg-purp shadow-3">
+    Sign Up
+  </div>
+</a>
+</div>

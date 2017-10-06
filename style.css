@@ -29,6 +29,12 @@ body {
   text-decoration: none;
 }
 
+.floaty {
+  position: fixed;
+  right: 10px;
+  bottom: 10px;
+}
+
 .headshot {
   height: 150px;
   width: 150px;
