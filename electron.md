@@ -32,8 +32,8 @@ Electron Workshop
       <div>Lunch Included</div>
     </div>
 
-    <a href="https://ti.to/learn-shiny-things/learn-electron" class="link">
-      <div class="tc pa3 ma3 ba br4 b--purple bg-purp shadow-3">
+    <a href="https://ti.to/learn-shiny-things/learn-electron" class="link ma3">
+      <div class="tc pa3 ba br4 b--purple bg-purp shadow-3">
         Register Interest or Sign Up
       </div>
     </a>
@@ -152,7 +152,7 @@ Spot-checks of some other menubar apps running in the background:
 
 <div>
 <a href="https://ti.to/learn-shiny-things/learn-electron" class="link floaty">
-  <div class="tc pa3 ma3 ba br4 b--purple bg-purp shadow-3">
+  <div class="tc pa3 ba br4 b--purple bg-purp shadow-3">
     Sign Up
   </div>
 </a>
