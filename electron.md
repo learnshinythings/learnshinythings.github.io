@@ -96,8 +96,6 @@ layout: general
 
 Electron provides a set of [cross-platform APIs](https://github.com/electron/electron-api-demos) you can use to interact with the desktop computer. You can use these to have an icon in the tray/menubar, to display notifications, register keyboard shortcuts, and much more. An Electron application has a node “server” running locally doing most of the work, and often additionally a browser process running locally to display things prettily.
 
-No node experience required, but some basic JavaScript experience would be helpful. If you want to play with Node ahead of time anyway (or brush up on your Javascript), We'd recommend NodeSchool's two command-line courses: [Javascripting](https://github.com/workshopper/javascripting) and [LearnYouNode](https://github.com/workshopper/learnyounode). If you'd enjoy reading/skimming a book, we might recommend [Eloquent Javascript](http://eloquentjavascript.net/) (free to read online).
-
 This class will walk students through creating a new JavaScript project from scratch. This class will also teach and reinforce [ES2017 fundamentals](https://github.com/lukehoban/es6features), potentially including:
   - arrow function
   - classes
@@ -111,6 +109,10 @@ This class will walk students through creating a new JavaScript project from scr
   - spread operator
   - promises
   - async/await
+
+### Prerequisites
+
+No node experience required, but some basic JavaScript experience would be helpful. If you want to play with Node ahead of time anyway (or brush up on your Javascript), We'd recommend NodeSchool's two command-line courses: [Javascripting](https://github.com/workshopper/javascripting) and [LearnYouNode](https://github.com/workshopper/learnyounode). If you'd enjoy reading/skimming a book, we might recommend [Eloquent Javascript](http://eloquentjavascript.net/) (free to read online).
 
 </div>
 </div>
