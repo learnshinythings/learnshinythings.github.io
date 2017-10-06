@@ -22,20 +22,21 @@ layout: general
 
 <div class="flex mh4">
   <div class="measure dib tl mh4" markdown="1">
-  [Electron](https://electron.atom.io/) is a framework you can use to make desktop applications using JavaScript. You may have already used an Electron app if you have the Slack app or the text editor Atom. With Electron, making a simple desktop application is as easy as making a simple web application.
+  [Electron](https://electron.atom.io/) is a framework you can use to make desktop applications using JavaScript. You may have already used an Electron app - the Slack desktop app and the text editor Atom are examples.
   </div>
   <div class="measure dib tl mh4" markdown="1">
-  In this one-day workshop, you'll use modern javascript (ES2017) to make an Electron menubar app that will help you understand how reliable your current wifi connection is. You'll use desktop notifications, a menubar icon, and global hotkeys.
+  In this one-day workshop, you'll produce your own fully-functioning Electron app from scratch. You'll learn about modern javascript (ES2017), Node.js, browser Javascript, and Electron APIs.
   </div>
 </div>
 
 <div class="flex flex-column items-center justify-center">
   <div class="tc pa3 ma3 ba b--purple bg-purp-light">
     <div>Sunday Nov 12, 2017</div>
-    <div>10am - 5pm</div>
-    <div>at <a href="https://generalassemb.ly/locations/washington-dc" class="link">General Assembly</a> (~Farragut area)</div>
-    <div>Morning Coffee & Lunch Included</div>
-    <div>$100 for the 8 hour class</div>
+    <div class="mb3">10am - 5pm</div>
+    <div>at <a href="https://generalassemb.ly/locations/washington-dc" class="">General Assembly</a></div>
+    <div>(Downtown DC)</div>
+    <div class="mt3">$100</div>
+    <div>morning coffee &amp; lunch Included</div>
   </div>
 
   <a href="https://ti.to/learn-shiny-things/learn-electron" class="link ma3">
@@ -152,7 +153,7 @@ And an unrelated application that Casey wrote:
 
 ### Is Electron Good Enough To Use?
 
-The biggest concern people have about using Electron is the possibility that the end product might be more resource-intensive than a native app. In our research, an electron menubar app uses RAM and CPU resources comparable to other menubar apps.
+The biggest concern people have about using Electron is the possibility that the end product might be more resource-intensive than a native app. In our research, an electron menubar app uses RAM and CPU comparable to other menubar apps.
 
 Casey's electron app `electron-ping` uses this amount of CPU and RAM to run:
 - 0.9% CPU, 70.6 MB of RAM
