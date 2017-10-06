@@ -25,6 +25,10 @@ body {
   background-color: #f6f0fe;
 }
 
+.link {
+  text-decoration: none;
+}
+
 .headshot {
   height: 150px;
   width: 150px;
