@@ -40,6 +40,43 @@ Electron Workshop
 </div>
 
 
+<div class="bg-purp pa5-ns tc flex items-center justify-center">
+<div class="dib tl" markdown="1">
+
+### The Teachers
+<div class="flex items-center justify-center mt4">
+  <img src="/headshot-casey.png" class="headshot">
+  <div class="ml5 measure-wide">
+    <div class="f3">Casey Watts!</div>
+    <div class="f5 mt3">"Casey Watts!" currently works for Heroku. He works with Ember, React, Web Components, ES7+, Node, and Ruby. Casey has taught at a Yale University Web Development Bootcamp (Ruby on Rails + JS). He claims pair programming can triple the rate at which you learn. He has spoken and taught on several continents to audiences of up to 800 people. He never leaves home without bubbles.</div>
+  </div>
+</div>
+
+<div class="flex items-center justify-center mt4">
+  <img src="/headshot-jon.png" class="headshot">
+  <div class="ml5 measure-wide">
+    <div class="f3">Jon Keam</div>
+    <div class="f5">Jon Keam currently works at "It's Hospitality" where he builds tools for hospitality professionals. He works with React, Rails, React Native, WebSockets and Node. He has been a consultant at a company that prioritized both teaching in large groups and mentoring clients one-on-one. Jon believes teaching is best done by seeing the material through the students' eyes.</div>
+  </div>
+</div>
+
+</div>
+</div>
+
+<div class="bg-purp-light pa5-ns tc flex items-center justify-center">
+<div class="dib tl" markdown="1">
+
+### Testimonials
+<div class="flex items-center justify-center mt4">
+  <img src="/headshot-steve.jpg" class="headshot">
+  <div class="ml5 measure-wide">
+    <div class="f3">Steve Chen</div>
+    <div class="f5 mt3">"I never thought I'd make a desktop app with Javascript. I really liked the upbeat teaching style of Casey Watts - very entertaining and enthusiastic."</div>
+  </div>
+</div>
+
+</div>
+</div>
 
 
 <div class="bg-purp pa5-ns tc">
@@ -70,7 +107,7 @@ For a quick explanation of the items above check out [Luke Hoban's great writeup
 
 
 
-<div class="bg-purp pa5-ns tc">
+<div class="bg-purp-light pa5-ns tc">
 <div class="measure-wide dib tl" markdown="1">
 ### Scenario / User Story
 You work remotely. When pair programming or video chatting online, sometimes the connection gets bad.
@@ -80,12 +117,8 @@ You'd love it if:
 
 1. You could tell at a glance (without an additional terminal window) whether your ping is currently good or bad
 2. You could get a notification when your wifi goes out, or comes back
-</div>
-</div>
 
 
-<div class="bg-purp-light pa5-ns tc">
-<div class="measure-wide dib tl" markdown="1">
 ### Our Project
 In this workshop, you will create from start to finish a tray icon that will display whether or not you are currently connected to the internet. A node process inside of the Electron app will ping google.com every second. We will then:
 
@@ -101,12 +134,6 @@ And an unrelated application that I've written:
 
 - https://github.com/caseywatts/heroku-ci-menubar
 
-</div>
-</div>
-
-<div class="bg-purp pa5-ns tc">
-<div class="measure-wide dib tl" markdown="1">
-
 ### Electron Resource Intensity
 An electron menubar app uses RAM and CPU resources comparable to other menubar apps.
 
@@ -117,44 +144,6 @@ Spot-checks of some other menubar apps running in the background:
 - Dropbox 0.3% CPU, 165MB
 - Screenhero 0.2% CPU, 124MB
 - Google Drive 0.3% CPU, 151MB
-
-</div>
-</div>
-
-<div class="bg-purp-light pa5-ns tc flex items-center justify-center">
-<div class="dib tl" markdown="1">
-
-### The Teachers
-<div class="flex items-center justify-center mt4">
-  <img src="/headshot-casey.png" class="headshot">
-  <div class="ml5 measure-wide">
-    <div class="f3">Casey Watts!</div>
-    <div class="f5 mt3">"Casey Watts!" currently works for Heroku. He works with Ember, React, Web Components, ES7+, Node, and Ruby. Casey has taught at a Yale University Web Development Bootcamp (Ruby on Rails + JS). He claims pair programming can triple the rate at which you learn. He has spoken and taught on several continents to audiences of up to 800 people. He never leaves home without bubbles.</div>
-  </div>
-</div>
-
-<div class="flex items-center justify-center mt4">
-  <img src="/headshot-jon.png" class="headshot">
-  <div class="ml5 measure-wide">
-    <div class="f3">Jon Keam</div>
-    <div class="f5">Jon Keam currently works at "It's Hospitality" where he builds tools for hospitality professionals. He works with React, Rails, React Native, WebSockets and Node. He has been a consultant at a company that prioritized both teaching in large groups and mentoring clients one-on-one. Jon believes teaching is best done by seeing the material through the students' eyes.</div>
-  </div>
-</div>
-
-</div>
-</div>
-
-<div class="bg-purp pa5-ns tc flex items-center justify-center">
-<div class="dib tl" markdown="1">
-
-### Testimonials
-<div class="flex items-center justify-center mt4">
-  <img src="/headshot-steve.jpg" class="headshot">
-  <div class="ml5 measure-wide">
-    <div class="f3">Steve Chen</div>
-    <div class="f5 mt3">"I never thought I'd make a desktop app with Javascript. I really liked the upbeat teaching style of Casey Watts - very entertaining and enthusiastic."</div>
-  </div>
-</div>
 
 </div>
 </div>
