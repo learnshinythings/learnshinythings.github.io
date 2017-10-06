@@ -9,7 +9,7 @@ layout: general
 <div class="bg-purp tc">
 <div class="dib pv3">
   <div class="f2 tracked">Electron</div>
-  <div class="f5">in One Day</div>
+  <div class="f5">in one day</div>
 </div>
 </div>
 
