@@ -192,10 +192,15 @@ And an unrelated application that Casey wrote:
 
 <div class="bg-purp pa3 tl tc-ns">Learn Shiny Things</div>
 
-<div>
-<a href="https://ti.to/learn-shiny-things/learn-electron" class="link floaty">
-  <div class="tc pa3 ba br4 b--purple bg-purp bg-hover-purp-dark shadow-3">
-    Sign Up
+<div class="floaty">
+<a href="https://ti.to/learn-shiny-things/learn-electron" class="link" target="_blank">
+  <div class="f7 tc pa3 ba br4 b--purple bg-purp bg-hover-purp-dark shadow-3 mw5 ma2">
+    Electron Workshop Signup
+  </div>
+</a>
+<a href="https://goo.gl/forms/xd3HzsEangcI95pi2" class="link" target="_blank">
+  <div class="f7 tc pa3 ba br4 b--purple bg-purp bg-hover-purp-dark shadow-3 mw5 ma2">
+    Future Classes
   </div>
 </a>
 </div>
