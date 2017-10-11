@@ -92,6 +92,14 @@ layout: general
   </div>
 </div>
 
+<div class="flex flex-column flex-row-ns items-center justify-center mt4">
+  <img src="/headshot-glenn.jpg" class="headshot">
+  <div class="ma3 ml5-ns measure-wide">
+    <div class="f5 mt3">"Definitely sign up for Casey and Jon's Electron course. Highly recommend! After a few false starts previously, this course finally got me up and running with Electron!"</div>
+    <div class="f4 fr">- Glenn Espinosa</div>
+  </div>
+</div>
+
 </div>
 </div>
 
